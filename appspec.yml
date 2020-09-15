@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: content
+  - source: temp/content
     destination: /var/www/html
